@@ -79,12 +79,14 @@ Atualmente estou construindo minha carreira na área de Tecnologia da Informaç�
 />
 
 <img
+  haight=100px"
     align="left"
     alt="Vercel"
     title="Vercel"
     width="80px"
     style="padding-right: 80px;"
     src="https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--37d43255-464b-4954-b7fc-493bf3ddfc95/mysql.png?preferwebp=true"
+
 />
 <br/>
 <br/>
