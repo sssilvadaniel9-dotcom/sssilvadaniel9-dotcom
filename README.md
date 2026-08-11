@@ -84,7 +84,7 @@ Atualmente estou construindo minha carreira na área de Tecnologia da Informaç�
     title="Vercel"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--37d43255-464b-4954-b7fc-493bf3ddfc95/mysql.png?preferwebp=true"
 />
 <br/>
 <br/>
