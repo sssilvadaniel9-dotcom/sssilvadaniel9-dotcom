@@ -1,57 +1,113 @@
 <div align="center">
-<img widht=100% botton=50px src="https://github.com/Orabonii/Orabonii/assets/70423924/1aa372eb-6af5-4e8c-a88b-ce778de2258e"/>
-<br>
-<br>
-  
-</div>
-<br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Reckoner&pause=1000&color=F70202&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
-  </div>
-<br>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Oraboni&theme=youtube-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-</div>
-
-<div align="center">
-  <a href="https://www.instagram.com/kauaoraboni/" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/c625430f-9395-4407-940f-b308c6f1a10f">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-
-  <a href="https://www.linkedin.com/in/kauã-oraboni-043591260/" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/35e3f43b-45e1-44e5-ad22-978eede5d71d">
-  </a>
-
-  <a href="kauaoraboni85@gmail.com" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/9b107268-c99c-4e99-a47d-c68a9d199d95">
-  </a>
-
-</div>
-<img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/12812876-691a-4f88-93e1-414d644aaccd">
-
-### MINHAS SKILLS:
-<div align="center">
-  
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/b4f43a31-0847-4c93-a9fc-e62eea2b445e"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/6d42c8ea-dd6d-4eaf-bd5f-de2d2da1aaae"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/b334a873-985f-4fe4-bff1-fd8551f504c8"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/9d60054b-19cb-4dcb-abbf-a0e299a4760a"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/999b4269-d205-49d0-931b-103ba9f02178"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/32a363e3-93f7-4d29-a392-972c43d2cd35"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/910a1c48-217d-4895-a0c9-84955a4b2e91"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/5a9abceb-f80d-4e8e-b568-c80eada660ce"/>
-
-</div>
-<div align="center">
-  
-![ashutosh's github activity graph](https://contribution.catsjuice.com/_/Orabonii?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=red&dark=true)
-
 </div>
 
-<div align="center">
-<img widht=100% botton=50px src="https://github.com/Orabonii/Orabonii/assets/70423924/02c7479c-37ee-4e87-b9df-b8423344d038"/>
+#
 
-</div>
+Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
+meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+ 
+#
+
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/paulopontodev/)
+
+
+<h3 align="left">My Stack ~</h3>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+<br/>
+<br/>
+
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
+
