@@ -79,7 +79,6 @@ Atualmente estou construindo minha carreira na área de Tecnologia da Informaç�
 />
 
 <img
-  haight=100px"
     align="left"
     alt="Vercel"
     title="Vercel"
