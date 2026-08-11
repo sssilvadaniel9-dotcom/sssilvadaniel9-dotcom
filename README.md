@@ -5,9 +5,13 @@
 </div>
 
 #
+Olá! Eu sou o Daniel
 
-Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+💻 Desenvolvedor em formação | Tecnologia | Programação
+
+Tenho 19 anos, sou de São Paulo - SP e sou apaixonado por programação e tecnologia. 🚀
+
+Atualmente estou construindo minha carreira na área de Tecnologia da Informação, estudando desenvolvimento de software e colocando meus conhecimentos em prática através de projetos.
  
 #
 
