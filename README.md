@@ -82,10 +82,9 @@ Atualmente estou construindo minha carreira na área de Tecnologia da Informaç�
     align="left"
     alt="Vercel"
     title="Vercel"
-    width="80px"
-    style="padding-right: 80px;"
-    src="https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--37d43255-464b-4954-b7fc-493bf3ddfc95/mysql.png?preferwebp=true"
-
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
 />
 <br/>
 <br/>
@@ -115,4 +114,3 @@ Atualmente estou construindo minha carreira na área de Tecnologia da Informaç�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
 </picture>
-
